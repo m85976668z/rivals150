@@ -1,0 +1,151 @@
+Rank,Name,Position,Star,City,State,High_School,Height,Weight,Status,Committed_School,Committed_Type
+1,CHET HOLMGREN,C,5,Minneapolis, MN,Minnehaha Academy,213.4,86.3,Undecided,NA,NA
+2,JADEN HARDY,SG,5,Henderson, NV,Coronado,193.0,81.7,Undecided,NA,NA
+3,PAOLO BANCHERO,PF,5,Seattle, WA,O'Dea,205.7,106.7,Decided,Duke,SIGNED
+4,PATRICK BALDWIN JR.,PF,5,Sussex, WI,Hamilton,205.7,93.1,Undecided,NA,NA
+5,JABARI SMITH,PF,5,Tyrone, GA,Sandy Creek,205.7,95.3,Decided,Auburn,SIGNED
+6,A.J. GRIFFIN,SF,5,White Plains, NY,Archbishop Stepinac,198.1,86.3,Decided,Duke,SIGNED
+7,HUNTER SALLIS,PG,5,Omaha, NE,Millard North,195.6,79.5,Undecided,NA,NA
+8,CALEB HOUSTAN,SF,5,Montverde , FL,Montverde Academy,203.2,90.8,Decided,Michigan,SIGNED
+9,HARRISON INGRAM,SF,5,Dallas, TX,St. Mark's,200.7,93.1,Decided,Stanford,SIGNED
+10,DAIMION COLLINS,PF,5,Atlanta, TX,Atlanta,205.7,93.1,Decided,Kentucky,SIGNED
+11,KENNEDY CHANDLER,PG,5,Bel Aire, KS,Sunrise Christian Academy,182.9,74.9,Decided,Tennessee,SIGNED
+12,MICHAEL FOSTER,PF,5,Phoenix, AZ,Hillcrest,205.7,99.9,Undecided,NA,NA
+13,JD DAVISON,PG,5,Letohatchee, AL,Calhoun,190.5,81.7,Decided,Alabama,VERBAL
+14,PEYTON WATSON,SF,5,Long Beach, CA,Poly,200.7,84.0,Decided,UCLA,SIGNED
+15,BENNY WILLIAMS,SF,5,Bradenton, FL,IMG Academy,203.2,84.0,Decided,Syracuse,SIGNED
+16,KENDALL BROWN,SF,5,Bel Aire, KS,Sunrise Christian Academy,200.7,90.8,Decided,Baylor,SIGNED
+17,AMINU MOHAMMED,SG,5,Springfield, MO,Greenwood Laboratory,193.0,90.8,Decided,Georgetown,VERBAL
+18,NATHAN BITTLE,C,5,Napa, CA,Prolific Prep,210.8,90.8,Decided,Oregon,VERBAL
+19,BRYCE MCGOWENS,SG,5,Greenville, SC,Legacy Early College,198.1,79.5,Decided,Nebraska,SIGNED
+20,TREVOR KEELS,SG,5,Fairfax, VA,Paul VI,195.6,95.3,Undecided,NA,NA
+21,MANNY OBASEKI,SG,5,Plano, TX,Pope John Paul II,193.0,79.5,Decided,Texas A&M,SIGNED
+22,MAX CHRISTIE,SG,5,Rolling Meadows, IL,Rolling Meadows,198.1,84.0,Decided,Michigan State,SIGNED
+23,MATTHEW CLEVELAND,SF,5,Atlanta, GA,Pace Academy,200.7,86.3,Decided,Florida State,SIGNED
+24,EFTON REID,C,5,Bradenton, FL,IMG Academy,215.9,106.7,Undecided,NA,NA
+25,KOWACIE REEVES,SG,5,Macon, GA,Westside,198.1,81.7,Decided,Florida,SIGNED
+26,MOUSSA DIABATE,PF,4,Bradenton, FL,IMG Academy,205.7,86.3,Decided,Michigan,SIGNED
+27,JALEN WARLEY,PG,4,Norristown, PA,Westtown School,195.6,81.7,Decided,Florida State,SIGNED
+28,BRYCE HOPKINS,SF,4,Oak Park, IL,Fenwick,198.1,95.3,Decided,Kentucky,VERBAL
+29,CHARLES BEDIAKO,C,4,Bradenton, FL,IMG Academy,210.8,99.9,Undecided,NA,NA
+30,TREY KAUFMAN,PF,4,Sellersburg, IN,Silver Creek,203.2,95.3,Decided,Purdue,VERBAL
+31,JOSH MINOTT,SF,4,Boca Raton, FL,St Andrews School,203.2,88.5,Decided,Memphis,VERBAL
+32,TY TY WASHINGTON JR.,PG,4,Phoenix , AZ,Compass Prep,193.0,81.7,Decided,Creighton,VERBAL
+33,JONAS AIDOO,C,4,Charlotte, NC,Liberty Heights,213.4,97.6,Decided,Marquette,VERBAL
+34,JAYLON TYSON,SF,4,Plano, TX,Pope John Paul II,198.1,88.5,Decided,Texas Tech,SIGNED
+35,ZACH CLEMENCE,PF,4,Bel Aire, KS,Sunrise Christian Academy,208.3,93.1,Decided,Kansas,SIGNED
+36,DARON HOLMES JR,PF,4,Montverde, FL,Montverde Academy,203.2,88.5,Decided,Dayton,VERBAL
+37,ISAEL SILVA,PG,4,Sacramento, CA,Prolific Prep,190.5,81.7,Decided,Stanford,SIGNED
+38,WILL MCCLENDON,SG,4,Las Vegas, NV,Bishop Gorman,193.0,86.3,Decided,UCLA,SIGNED
+39,NOLAN HICKMAN,PG,4,Mt. Pleasant, UT,Wasatch Academy,188.0,77.2,Decided,Kentucky,VERBAL
+40,JORDAN LONGINO,SG,4,Germantown, PA,Germantown Academy,195.6,88.5,Decided,Villanova,VERBAL
+41,MALAKI BRANHAM,SF,4,Akron, OH,St. Vincent-St. Mary,195.6,86.3,Decided,Ohio State,SIGNED
+42,CALEB FURST,C,4,Fort Wayne, IN,Blackhawk Christian,205.7,97.6,Decided,Purdue,VERBAL
+43,ROOSEVELT WHEELER,C,4,Richmond, VA,John Marshall,208.3,104.4,Decided,Louisville,SIGNED
+44,TYRESE HUNTER,PG,4,Racine, WI,St. Catherine's,182.9,72.6,Decided,Iowa State,SIGNED
+45,JORDAN HAWKINS,SG,4,Hyattsville, MD,DeMatha,193.0,77.2,Decided,Connecticut,VERBAL
+46,RAHSOOL DIGGINS,PG,4,Warminster, PA,Archbishop Wood Catholic,188.0,81.7,Decided,Connecticut,VERBAL
+47,JADEN AKINS,PG,4,Wichita, KS,Sunrise Christian Academy,190.5,79.5,Decided,Michigan State,SIGNED
+48,ARTHUR KALUMA,PF,4,Glendale, AZ,Dream City Christian,200.7,90.8,Decided,UNLV,VERBAL
+49,KOBE BUFKIN,SG,4,Grand Rapids, MI,Grand Rapids Christian,193.0,79.5,Decided,Michigan,SIGNED
+50,DALLAN “DEEBO” COLEMAN,SG,4,Callahan , FL,West Nassau Cnty,198.1,95.3,Decided,Georgia Tech,SIGNED
+51,ZAON COLLINS,PG,4,Las Vegas, NV,Bishop Gorman,182.9,72.6,Decided,UNLV,VERBAL
+52,JAHMAI MASHACK,SF,4,Etiwanda, CA,Etiwanda,195.6,81.7,Decided,Tennessee,SIGNED
+53,LANGSTON LOVE,SG,4,Montverde, FL,Montverde Academy,193.0,84.0,Decided,Baylor,SIGNED
+54,ZION HARMON,PG,4,Benton, KY,Marshall County,175.3,77.2,Decided,W Kentucky,SIGNED
+55,D'MARCO DUNN,SG,4,Fayetteville, NC,Westover Senior,193.0,79.5,Decided,North Carolina,VERBAL
+56,KADEN PERRY,C,4,Battle Ground, WA,Battle Ground,205.7,102.2,Decided,Gonzaga,VERBAL
+57,TAMAR BATES,SG,4,Bradenton, FL,IMG Academy,195.6,81.7,Decided,Texas,VERBAL
+58,LAWSON LOVERING,C,4,Cheyenne, WY,Central,213.4,99.9,Decided,Colorado,SIGNED
+59,JOHN BUTLER,C,4,Greenville, SC,Christ Church,213.4,81.7,Decided,Florida State,SIGNED
+60,WESLEY CARDET,SF,4,Orlando, FL,West Oaks Academy,198.1,79.5,Undecided,NA,NA
+61,JERRELL COLBERT,C,4,Memphis, TN,Houston,205.7,90.8,Decided,Louisiana State,VERBAL
+62,QUINCY ALLEN,SF,4,Washington, DC,Maret School,200.7,81.7,Decided,Colorado,SIGNED
+63,DAVID JONES,SF,4,Scott Depot, WV,Teays Valley Christian School,198.1,88.5,Decided,DePaul,VERBAL
+64,DAESHUN RUFFIN,PG,4,Jackson, MS,Callaway,177.8,72.6,Decided,Mississippi,SIGNED
+65,JACKSON GRANT,C,4,Olympia, WA,Olympia,205.7,93.1,Decided,Washington,VERBAL
+66,MICHAEL JAMES,SF,4,Orlando, FL,Oak Ridge,198.1,93.1,Decided,Louisville,SIGNED
+67,FRANKIE COLLINS,PG,4,Henderson, NV,Coronado,185.4,79.5,Decided,Michigan,SIGNED
+68,PIERRE BROOKS,SF,4,Detroit, MI,Frederick Douglass,198.1,97.6,Decided,Michigan State,VERBAL
+69,DONTREZ STYLES,PF,4,Kinston, NC,Kinston,200.7,93.1,Decided,North Carolina,VERBAL
+70,TREY ALEXANDER,SG,4,Oklahoma City, OK,Heritage Hall,193.0,84.0,Decided,Auburn,SIGNED
+71,JAKAI ROBINSON,SF,4,Meadows, MD,Rock Creek Christian,193.0,90.8,Decided,Miami (FL),SIGNED
+72,LOGAN DUNCOMB,C,4,Cincinnati, OH,Moeller,205.7,104.4,Decided,Indiana,VERBAL
+73,K.J. ADAMS,PF,4,Austin, TX,Westlake,200.7,99.9,Decided,Kansas,SIGNED
+74,NNANNA NJOKU,C,4,Hockessin, DE,Sanford School,205.7,111.2,Decided,Villanova,VERBAL
+75,MASON MILLER,PF,4,Germantown, TN,Houston,205.7,86.3,Decided,Creighton,VERBAL
+76,ERNEST ROSS,PF,4,Alachua, FL,Santa Fe,205.7,93.1,Decided,NC State,VERBAL
+77,SAMSON JOHNSON,C,4,Elizabeth, NJ,The Patrick School,208.3,93.1,Decided,Connecticut,VERBAL
+78,AHAMAD BYNUM,SG,4,Chicago, IL,Simeon,190.5,79.5,Decided,DePaul,VERBAL
+79,JORDAN NESBITT,SF,4,St. Louis, MO,Saint Louis Christian Academy,198.1,93.1,Decided,Memphis,VERBAL
+80,BRANDON WESTON,SF,4,Glendale , AZ,Hillcrest Prep,195.6,86.3,Decided,Seton Hall,VERBAL
+81,SHANE DEZONIE,SG,4,Wolfeboro, NH,Brewster Academy,195.6,90.8,Decided,Arizona,SIGNED
+82,STEVIE MITCHELL,PG,4,West Lawn, PA,Wilson,188.0,79.5,Decided,Marquette,VERBAL
+83,MALIK THOMAS,SG,4,La Verne, CA,Veritas Prep,190.5,86.3,Decided,USC,VERBAL
+84,NISINE POPLAR,SG,4,Philadelphia, PA,"Mathematics, Civics and Sciences Charter School",195.6,86.3,Decided,Miami (FL),SIGNED
+85,IKE CORNISH,SF,4,Greenville, SC,Legacy Early College,198.1,84.0,Decided,Maryland,VERBAL
+86,SHANE NOWELL,SG,4,Sammamish, WA,Eastside Catholic,193.0,81.7,Decided,Arizona,SIGNED
+87,JUSAUN HOLT,SF,4,Roswell, GA,St. Francis,195.6,79.5,Decided,Alabama,VERBAL
+88,JULIAN REESE,PF,4,Owings Mills, MD,St. Frances,205.7,93.1,Decided,Maryland,VERBAL
+89,KENNETH “K.J.” SIMPSON JR.,PG,4,West Hills, CA,Chaminade,188.0,77.2,Decided,Arizona,SIGNED
+90,JOHN CAMDEN,SF,4,Wolfeboro , NH,Brewster Academy,200.7,84.0,Decided,Memphis,VERBAL
+91,EMARION ELLIS,SG,4,Davenport, IA,Assumption,195.6,79.5,Decided,Texas,VERBAL
+92,BLAKE WESLEY,SG,4,South Bend, IN,Riley,195.6,81.7,Decided,Notre Dame,SIGNED
+93,DAVID JOPLIN,PF,4,Brookfield, WI,Central,200.7,97.6,Decided,Texas,VERBAL
+94,MILES KELLY,SG,4,Chatham, VA,Hargrave Military Academy,195.6,81.7,Decided,Georgia Tech,SIGNED
+95,DARIUS JOHNSON,PG,4,Alexandria, VA,Episcopal High School,185.4,87.6,Decided,UCF,SIGNED
+96,TUCKER DEVRIES,SF,4,Waukee, IA,Waukee,198.1,86.3,Decided,Drake,VERBAL
+97,SAM AYOMIDE ONU,C,4,Malvern, PA,Phelps School,210.8,115.8,Decided,Memphis,VERBAL
+98,KALEB WASHINGTON,SF,4,Mableton, GA,Wheeler,200.7,84.0,Decided,Dayton,VERBAL
+99,BRANDON MURRAY,SF,4,Bradenton, FL,IMG Academy,193.0,97.6,Decided,Louisiana State,VERBAL
+100,TERQUAVION SMITH,SG,4,Farmville, NC,Farmville Central,188.0,74.9,Decided,NC State,VERBAL
+101,JOHNATHAN LAWSON,SF,4,Memphis, TN,Wooddale,198.1,74.9,Decided,Oregon,VERBAL
+102,ISAIAH BARNES,SG,4,Chicago, IL,Simeon,198.1,81.7,Decided,Michigan,SIGNED
+103,WADE TAYLOR,PG,4,Lancaster, TX,Lancaster,185.4,81.7,Decided,Texas A&M,SIGNED
+104,RYAN MUTOMBO,C,4,Atlanta, GA,Lovett,213.4,95.3,Decided,Georgetown,VERBAL
+105,RYAN NEMBHARD,PG,4,Montverde, FL,Montverde Academy,185.4,74.9,Decided,Creighton,VERBAL
+106,ELIJAH TUCKER,PF,4,Canton, GA,Cherokee,200.7,86.3,Decided,Xavier,VERBAL
+107,LUKE GOODE,SG,4,Ft. Wayne, IN,Homestead,198.1,84.0,Decided,Illinois,SIGNED
+108,CJ NOLAND,SG,4,Waxahachie, TX,Waxahachie,190.5,97.6,Decided,Oklahoma,SIGNED
+109,TREYTON THOMPSON,C,3,La Porte, IN,La Lumiere School,208.3,84.0,Decided,Minnesota,SIGNED
+110,JA'VIER FRANCIS,C,3,Montverde, FL,Montverde Academy,203.2,93.1,Decided,Houston,VERBAL
+111,TEAFALE LENARD,SF,3,Branson, MO,Link Year,200.7,77.2,Decided,Tulsa,VERBAL
+112,CESARE EDWARDS,C,3,Hartsville, SC,Hartsville,208.3,90.8,Decided,Xavier,VERBAL
+113,CHANCE MOORE,SF,3,Powder Springs, GA,McEachern,195.6,84.0,Decided,Arkansas,SIGNED
+114,BENSLEY JOSEPH,PG,3,Putnam, CT,Putnam Science Academy,185.4,74.9,Decided,Miami (FL),VERBAL
+115,BOBBY PETTIFORD,PG,3,Creedmoor, NC,South Granville,182.9,77.2,Decided,Louisville,SIGNED
+116,ROBERT MCCRAY,PG,3,Columbia, SC,A.C. Flora,193.0,79.5,Decided,Wake Forest,SIGNED
+117,RYAN CONWAY,PG,3,Timonium, MD,Dulaney,182.9,80.8,Decided,Seton Hall,VERBAL
+118,MATTHEW MORS,PF,3,Yankton, SD,Yankton,200.7,102.2,Decided,Wisconsin,SIGNED
+119,A.J. NEAL,PG,3,Orlando, FL,West Oaks Academy,188.0,83.1,Undecided,NA,NA
+120,JAYLEN BLAKES,SG,3,Blairstown, NJ,Blair Academy,185.4,81.7,Undecided,NA,NA
+121,JACOBI WRIGHT,PG,3,Fort Mill, SC,Legacy Early College,188.0,81.7,Decided,South Carolina,VERBAL
+122,ZHURIC PHELPS,PG,3,Duncanville, TX,Duncanville,193.0,81.7,Decided,SMU,SIGNED
+123,CHUCKY HEPBURN,PG,3,Bellevue, NE,West,188.0,84.0,Decided,Wisconsin,SIGNED
+124,WILHELM BREIDENBACH,C,3,Santa Ana, CA,Mater Dei,205.7,95.3,Decided,Nebraska,SIGNED
+125,ANGELO BRIZZI,PG,3,Warrenton, VA,Highland,193.0,77.2,Decided,Villanova,VERBAL
+126,RAFAEL CASTRO,PF,3,Dover, NJ,Dover,205.7,88.5,Decided,Providence,VERBAL
+127,JR KONIECZNY,SF,3,South Bend, IN,St. Joseph,200.7,88.5,Decided,Notre Dame,SIGNED
+128,CHRIS HODGES,PF,3,Schaumburg, IL,Schaumburg,205.7,106.7,Decided,Wisconsin,SIGNED
+129,JORDAN RILEY,SG,3,Brentwood, NY,Brentwood,190.5,88.5,Decided,Georgetown,VERBAL
+130,MALACHI SMITH,PG,3,Bronx, NY,St. Raymond's,182.9,68.1,Decided,Dayton,VERBAL
+131,TYLER BEARD,PG,3,Chatham, VA,Hargrave Military Academy,185.4,79.5,Decided,Georgetown,VERBAL
+132,CAMRYN CARTER,PG,3,Mouth of wilson, VA,Oak Hill Academy,188.0,79.5,Undecided,NA,NA
+133,WILL TSCHETTER,PF,3,Stewartville, MN,Stewartville,203.2,102.2,Decided,Michigan,SIGNED
+134,KEEYAN ITEJERE,C,3,Raleigh, NC,Grace Christian,205.7,86.3,Decided,Texas,VERBAL
+135,CASEY SIMMONS,SF,3,Milton, MA,Milton Academy,198.1,79.5,Decided,Northwestern,SIGNED
+136,TYLER POWELL,SF,3,Los Angeles, CA,Ribet Academy,195.6,90.8,Decided,Seton Hall,VERBAL
+137,JAKE WAHLIN,PF,3,Provo, UT,Timpview,203.2,88.5,Decided,Brigham Young,VERBAL
+138,JULIAN ROPER,SG,3,Detroit, MI,St. Mary's,190.5,86.3,Decided,Northwestern,SIGNED
+139,SEAN PEDULLA,PG,3,Edmond, OK,Edmond Memorial,185.4,77.2,Decided,Virginia Tech,SIGNED
+140,PAYTON SANDFORT,PF,3,Waukee, IA,Waukee,200.7,95.3,Decided,Iowa,SIGNED
+141,IAN SCHIEFFELIN,PF,3,Grayson, GA,Grayson,203.2,102.2,Decided,Clemson,VERBAL
+142,BROOKS BARNHIZER,SF,3,Lafayette, IN,Jefferson,198.1,84.0,Decided,Northwestern,SIGNED
+143,JOSH BEADLE,PG,3,Columbia, SC,Cardinal Newman,190.5,74.9,Decided,Clemson,VERBAL
+144,KALEN ETZLER,PF,3,Convoy, OH,Crestview,203.2,90.8,Decided,Ohio State,SIGNED
+145,RAMSES MELENDEZ,SF,3,Kissimmee, FL,Central Pointe Christian,200.7,88.5,Decided,Illinois,VERBAL
+146,JALON MOORE,SF,3,Gardendale , AL,Gardendale,198.1,88.5,Decided,Georgia Tech,SIGNED
+147,YAYA KEITA,C,3,St. Louis, MO,De Smet,205.7,102.2,Decided,Missouri,VERBAL
+148,KENNY POHTO,C,3,Bel Aire, KS,Sunrise Christian Academy,210.8,108.5,Decided,Minnesota,SIGNED
+149,PEYTON DANIELS,PG,3,East Point, GA,Tri Cities,188.0,79.5,Decided,Vanderbilt,SIGNED
+150,JAQUAN CARLOS,PG,3,Brooklyn, NY,Thomas Jefferson,177.8,72.6,Decided,Hofstra,VERBAL

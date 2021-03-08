@@ -1,5 +1,5 @@
 # rivals150
-This is a web scrapping project for top150 high school basketball recruits from Rivals, the data can be further used for Data Visualization.
+This is a web scrapping project for 2021 top150 high school basketball recruits from Rivals, the data can be further used for Data Visualization.
 
 ## Columns
 | Column     |  DataType   |
@@ -22,5 +22,6 @@ The height unit listed on the website is in foot and inch, the weight unit is in
 
 ## Rivals
 According to Wikipedia, "Rivals.com is a network of websites that focus mainly on college football and basketball recruiting in the United States. The network was started in 1998 and currently employs more than 300 personnel".
+
 The website address is: [Rivals.com](https://n.rivals.com/).
 

@@ -24,8 +24,8 @@ table_item = []
 
 for player in tr:
     rank = int(player.find_elements_by_class_name("rank")[0].text)
-    first_name = player.find_elements_by_class_name("first-name")[0].text
-    last_name = player.find_elements_by_class_name("last-name")[0].text
+    first_name = player.find_elements_by_class_name("first-name")[0].text.capitalize()
+    last_name = player.find_elements_by_class_name("last-name")[0].text.capitalize()
     name = first_name +' ' +last_name
     stars = player.find_elements_by_class_name("star-on")
     star = len(stars)
@@ -49,6 +49,7 @@ for player in tr:
         school = school_name[0]
         commit_type = school_name[2]
     table_item.append([rank,name,position,star,city,state,high_school,cm,kg,status,school,commit_type])
+    print(rank)
 
 df = pd.DataFrame(table_item,columns =['Rank','Name','Position','Star','City','State','High_School','Height','Weight',
 'Status','Committed_School','Committed_Type'])
